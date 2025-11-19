@@ -1,0 +1,131 @@
+-Saw Sheild form D4T and craneo, added to all weapons
+
+
+Sheild rework via SkeletronMK
+-Saw Sheild now acts as a boomerang, returning to the player
+-sheild now deflects
+-sheild only reduces a bit of damage now
+-sheild cannot block whenever your health is below 25
+
+- New Flash Frames for some guns : SSG, Accelerator, and Pulverizer
+
+- Pulverizer works more like the one in the orignal game, Fires Projectiles
+in a chaotic Barrage, instead of a large barrage of hitscans.
+
+- ALL Weapons aside from the DarkMace have a Exploseive Blood Punch Attack
+tied to RELOAD
+
+- Accelerator projectile damage now does 6 pts
+
+- Shredder Projectile damage now does 3
+
+- Sheild now has sheild break animation, when you have less than 25 health while
+blocking.
+
+- saw shield projectile now has more base doom II saw sounds for it's bounce sound.
+
+- tossing the sheild with any weapon, no longer relys on the shield saw projectile
+inventory token to kick the weapon out of the "Thrown_Sheild" state, instead the
+state now only lasts 7 secs and no longer loops, this also prevents sheild spamming.
+
+- replaced the Reload melee with a powerful Flail as seen in DOOM the Dark Ages,
+with an explosive attack.
+
+- If your sheild enters into "Sheild Break"(if you are lower than 25 health while blocking with
+the saw sheild) the shield now summons 3 small ripper projectiles and blasts away enemies and projectiles.
+
+- PLAYER no longer spawns with DarkMace, now replaces chainsaw
+  - picking up the dark mace upgrades the Flail to the dark mace automomatically
+ 
+- New notifications for sheild break, via Display Text on screen, and a new
+pain sound that plays when your health is below or at 25, via D4T and Doom Eternal
+sound effects.
+
+-saw shield now does 10 dam
+
+-saw sheild toss is now set to the Zoom state instead double tapping the Altfire, has also
+been slowed down.
+
+- flail now has proper sounds
+
+- Pressing Fire while blocking now preforms a shield dash that does impact damage.
+
+- new pickup sprites for ammo, and some weapon pickup sprites have been brightened up via color remapping and sprite editing
+
+- Blocking with shield no longer deflects projectiles, unless hit in a specific window when the sheild buffers and glows
+yellow, if you deflect a porjectile within this timing window, it will trigger the sheild to shoot projecitles (Sheild Deflect state) along with
+delflecting the projectiles.
+
+- BUFF ,Sheild now reduces damage to 25% of damage.
+
+- Chainshot added as a weapon, projectile cannot be deflected.
+
+- BFC now consumes 40 cell like the original bfg, as a balance buff
+
+- Chainshot's ball now does 100 dam, and now insta kills in pvp, good for single
+traget damage, and starts with 40 cell
+
+- Chainshot's ball now travels at a speed of 35, instead of 25
+
+- Chainshot graphic pass.
+
+=============== beta 2 offical public
+
+- New Green Zandronum style Title Picture for the mod
+
+- Shortened the window in witch the perry triggers
+
+- Skull Shrapnel projectile damage reduced to 3 dam
+
+============== beta 3 offical public
+
+- Fist have new combo animation, with sprites provided by "DiegoSlayerXII"
+
+- Chainshot can now be held, slower firing animation, new frames of animation during the hold state
+
+- Added New Start Up Menu title
+
+- Added New Menu Keys in Control Menu that are reflective of the Actual controls.
+
+============== beta 4 offical public
+
+- adde new map DARK02 "bastion of pain" based off of real world geometry of a castle,
+featuring a midi of a "mudvayne" song.
+
+============== beta 5 offical public
+- Player's sheild dash can now be parryed.
+
+- parrying has been buffed to heal players by 10 pts of health.
+    - Shield Clash: the parry state when deflecting a player's shield dash, simular too sheild deflect, but forces entities and players
+	away from you with a blast.
+	
+- imported graphics from DOOM II hud, New mug color remapped to be BLUE and holographic looking.
+============ RC 1
+
+- Perrying with shield, will grant 40 health, stacks up to 100 health
+
+- Dark Mace hits, grant 5 pts of health, stacks up to 50 health.
+
+- Fist hits now grant 5 pts of health, stacks up to 50 health. can no longer spam the kick you MUST hit the combo.
+
+- SHIELD TOSS is now on a cooldown, you can throw 2 in a row before the cooldown starts.
+   - HUD ELEMENTS NOW TIED TO THIS NEW COOLDOWN
+
+- added hight variation to DARK01 "inside the castle walls"
+
+- made the outer wall in DARK02 "Bastion of pain" Impassable completely, so that you cannot
+stand on the edges of the wall.
+
+- ShieldSaw Toss no longer consumes ammo from your current weapon
+
+- Berserk has been replaces by the Power Gauntlet, works the same, new graphics and in game text.
+
+- new status bar graphics, using GothicDM textures and Font modified by SkeletronMK.
+
+- Tweaked the timing of the reflective state during parrying and blocking
+=============
+"if you tank damage from a projectile while the shield is yellow, you shield will be set to reflective in the shield deflect state- very imporatant!!!!"
+
+=============
+
+- added bullet decals to the shotguns

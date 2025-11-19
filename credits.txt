@@ -1,0 +1,49 @@
+TheCatMask developer of "TheDarkAgesWeaponPack" as a base
+sprites, Decorate
+Sound : DOOM: The Dark Ages
+====================
+MenuDef, copied and modifed code from Zandornum
+====================
+sheild saw:
+DECORATE - Craneo, SkeletronMK, H_Glados , Idgames
+Sprites - Craneo
+DBThanatos and all the D4T Teams
+====================
+IDGAMES, Bathesda
+
+NEW MACE AND FLAIL sprites : SkeletronMK / Idgames
+
+D4T mod by DiegoSlayerXII/ idgames
+
+Player Sprites:
+
+DiegoSlayerXII/ IDgames / SkeletronMK666 / Raven Software
+
+New Weapon Pickup Graphics:
+
+DiegoSlayerXII/ IDgames / SkeletronMK666
+==== "Dark Ages Death Match" =====
+
+H_Glados : SawShield Implemntation
+
+New Flash states, Sheild Modifcation and Decorate behavior : SkeletronMK / Idgames
+================
+Maps:
+
+- DARK01 - "Inside The Castle Walls" BY SkeletronMK
+
+- DARK02 "bastion of pain" BY SkeletronMK
+================
+Midis:
+
+D_DARK2 "unchained predator from doom dark ages ig" MIDI by "Snail" / idGAMES / andrew hulshult
+
+D_DARKA "a peak at truth" MP3 by "Snowy" / idGAMES / andrew hulshult
+
+D_HAPPY "HAPPY?" BY "MUDVAYNE"
+
+===== Playtesters =====
+
+Snowy, DieagoSlayerXII, H-Glados, schlg
+
+Much appreciated

@@ -1,0 +1,51 @@
+what is this mod?
+
+This is a Modification using "Dark Ages Weapon Pack" by TheCatMask as a base.
+
+- the mod is meant to be a Gameplay mod / Zandronum DM mod : hence the name "Dark Ages : Deathmatch"
+(Check Credits for more info)
+=== WEAPONS ===
+
+Shield Saw: 
+ Is included in all the weapons, via altfire (Block) Reload (Toss), and
+ can be used by itself as it's own weapon, that the player starts with.
+ 
+ If you block with a projectile with your shield in the Perry state,
+ you can reflect projectiles and cause the shield to enter into a "shield Deflect"
+ state that summons devastating fireballs.(works with player projectiles as well)
+ 
+  
+  While blocking, if you press Fire, the shield will preform a "Shield Dash"
+  "Shield Dash" Propels you forward and does impact damage to enemies.
+  
+Dark Mace:
+  The dark mace is a powerful Melee weapon that replaces the Chainsaw Slot
+  it has a powerful crushing blow that eliminates enemies in a radius.
+  when picked up, it also upgrades your "Flail" or Zoom State.
+  
+  (The "Flail" is your Melee Attack tied to the Reload key.)
+  
+Shredder:
+   Fires weak nails, it is your pistol weapon.
+   
+Shotgun: 
+   Players start with this weapon as well, this weapon fires a vertical spread
+   of pellets.
+
+Super Shotgun:
+   The lever action double barreled shotgun that does devastating damage to your
+   foes.
+   
+Pulverizer:
+   Your 'chaingun', it crushes skulls and uses the remaining shrapnel as ammunition.
+   
+Accelerator:
+   The Accelerator is the plasma rifle of the mod, it fires rapid bolts of plasma.
+ 
+ChainShot:
+   The ChainShot is an energy Ball and Chain that destroyed players into a pulp, and
+   can not be parried or blocked!
+
+BFC:
+  the 'BIG FUCKING CROSSBOW', is a energy crossbow that fires BFG plasma bolts
+  with the BFG tracers and damage!
